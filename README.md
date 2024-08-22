@@ -45,3 +45,6 @@ This project is a Java-based console application inspired by the BookMyShow plat
 1. Clone the repository.
 2. Compile the Java files using `javac`.
 3. Run the application with `java BookMyShowUser`.
+   
+## Author
+**Your Name - [Shivam Chauhan](https://www.linkedin.com/in/chauhan21shivam)**
